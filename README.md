@@ -1,13 +1,12 @@
-## ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) General Assembly, Software Engineering Immersive
 
-# Project #3: Find-A-Pint
+# Find-A-Pint
 
 ## Overview 
 As a result of the confusion surrounding lockdown rules, our initial idea was to create a website focused on the Public House industry showing which places were open, which places had outdoor seating, where one could get take-away drinks from etc. This quickly developed into something that could be used both during this current confusion and post lockdown, so we tried to include as much information about the sites as possible. We also wanted to make it a more social website than just being able to look up places to drink. We not only wanted friends to be able to communicate and coordinate places to meet and have a drink but also for Pubs to be able to give out information/offers etc to their 'subscribers'. For this we implemented (a) a friend requesting/adding system that works hand in hand with the map in order to give the best userbility on finding a place, and (b) a subscribing/emailing system for landlords to be able to communicate with their customers and keep them up to date with the lastest news/offers.
 
 We also wanted to make it a more social website than just being able to look up places to drink. We not only wanted friends to be able to communicate and coordinate places to meet and have a drink but also for Pubs to be able to give out information/offers etc to their 'subscribers'. For this we implemented a friend requesting/adding system that works hand in hand with the map in order to give the best userbility on finding a place. And a subscribing/emailing system for landlords to be able to communicate with their customers and keep them up to date with the lastest news/offers.
 
-[You can find the project here.](https://project-3-theo.herokuapp.com/)
+[You can find the project here.](https://project-3-lee.herokuapp.com/)
 
 ## Brief
 * Work in a team, using **git to code collaboratively**.
@@ -20,7 +19,7 @@ We also wanted to make it a more social website than just being able to look up 
 * **Be deployed online** so it's publicly accessible.
 
 ## Contributors
-* [Lee Burgess](https://github.com/Budge23)
+* [Theo Booth](https://github.com/theorlbooth)
 * [Adam Osgood](https://github.com/adwam12)
 
 ## Approach 
