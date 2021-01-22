@@ -442,6 +442,13 @@ A smaller feature we would look to add is directions. As we already have the use
 
 The challenge of this feature comes from choosing which platform to send directions on. There are quite a few options including: Citymapper, Google maps and mapbox. 
 
+## Key Learnings 
+
+This was my first larger group project that lasted longer than two days. I learnt an incredible amount about working as a group and splitting up work effectively. 
+
+A key solo learning I found was regarding using git and rebasing. As mentioned in challenges a misplaced api key meant I had to quickly learn all GitHub commands to roll back versions. 
+
+Overall learning how to effectively work together was a massive skill.
 
 ## Known Bugs
 * Geolocation icon on the map is currently inactive
